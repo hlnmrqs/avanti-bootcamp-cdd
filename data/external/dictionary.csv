@@ -1,0 +1,8 @@
+variavel,descricao,tipo,subtipo
+total_bill,tip in dollars,quantitativa,contínua
+tip,bill in dollars,quantitativa,contínua
+sex,sex of the bill payer,qualitativa,nominal
+smoker,whether there were smokers in the party,qualitativa,nominal
+day,day of the week,qualitativa,nominal
+time,time of day,qualitativa,nominal
+size,size of the party,quantitativa,discreta
